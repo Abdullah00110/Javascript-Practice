@@ -40,3 +40,21 @@ let myobj = {
 const abc = function(){
     
 }
+
+
+// ++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive ) , heap(Non primitive)
+
+let myobj1 = {
+    email : 'abd@google.com',
+    uid : 1 
+}
+
+let newobj = myobj1
+
+// console.log(newobj)
+
+newobj.uid = 2
+
+console.log(newobj), console.log(myobj1)
