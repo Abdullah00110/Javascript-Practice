@@ -12,7 +12,7 @@ let name = "Abdullah" // ----> string datatype
 let age = 21 // ---> number datatype
 let isLoggedIn = true // --> Bool datatype
 
-
+console.log(isLoggedIn)
 // number => 2 to power 53
 // bigint
 // string => ""
