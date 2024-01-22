@@ -1,5 +1,7 @@
 // Primitive datatype  => Call by value
 
+// Call by value  and refrence
+
 // Javascript is dynamically typed language
 
 // 7 types
