@@ -15,3 +15,9 @@ console.log(real_hero);
 const another_array = [1,2,3,[4,5,6] , [1,2,[3,4], 5,[7,8]]]
 const real_another_array = another_array.flat(4)
 console.log(real_another_array);
+
+
+const student = ["Abdullah" , "Ahmad"]
+const roll_no = [101 , 102]
+const output = [...student , ...roll_no]
+console.log(output);
