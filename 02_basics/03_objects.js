@@ -23,3 +23,8 @@ console.log(jsUser["name"]);
 console.log(jsUser["Full name"])
 
 console.log(jsUser[mySym]);
+
+
+const email = "abdullahbard.com"
+
+console.table(['name' , 'Full name' , 'age' , [mySym] , 'location' , 'email' , 'isLoggedIn' , 'lastLoginDays'])
