@@ -33,3 +33,5 @@ Object.freeze(jsUser)
 
 jsUser.email = "abdullah@google.com"
 console.log(email);
+
+console.log(jsUser)
