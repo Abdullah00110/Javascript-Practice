@@ -1,0 +1,25 @@
+// Singleton ------> Constructor se banega usko singleton kahege aur literal se banega vo kabhi bhi singleton nhi hai
+
+// Object.create()
+
+// Literal
+
+const mySym = Symbol("mykey1")
+const jsUser = {
+    name : "Abdullah",
+    "Full name" : "Abdullah Sunasara",
+    age : 13,
+    [mySym] : "mykey1",
+    location : "Mumbai",
+    email : 'abdullah@google.com',
+    isLoggedIn : true,
+    lastLoginDays : ['Tuesday' , 'Friday']
+
+}
+
+console.log(jsUser.name)
+console.log(jsUser["name"]);
+
+console.log(jsUser["Full name"])
+
+console.log(jsUser[mySym]);
