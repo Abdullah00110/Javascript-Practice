@@ -28,3 +28,8 @@ console.log(jsUser[mySym]);
 const email = "abdullahbard.com"
 
 console.table(['name' , 'Full name' , 'age' , [mySym] , 'location' , 'email' , 'isLoggedIn' , 'lastLoginDays'])
+
+Object.freeze(jsUser)
+
+jsUser.email = "abdullah@google.com"
+console.log(email);
