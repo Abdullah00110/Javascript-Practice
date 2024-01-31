@@ -25,13 +25,21 @@ console.log(jsUser["Full name"])
 console.log(jsUser[mySym]);
 
 
-const email = "abdullahbard.com"
+// const email = "abdullahbard.com"
 
-console.table(['name' , 'Full name' , 'age' , [mySym] , 'location' , 'email' , 'isLoggedIn' , 'lastLoginDays'])
+// console.table(['name' , 'Full name' , 'age' , [mySym] , 'location' , 'email' , 'isLoggedIn' , 'lastLoginDays'])
 
-Object.freeze(jsUser)
+// Object.freeze(jsUser)
 
-jsUser.email = "abdullah@google.com"
-console.log(email);
 
-console.log(jsUser)
+
+// jsUser.email = "abdullah@google.com"
+// console.log(email);
+
+// console.log(jsUser)
+
+jsUser.greeting = function(){
+    console.log("Hello Js User")
+}
+
+console.log(jsUser.greeting);
