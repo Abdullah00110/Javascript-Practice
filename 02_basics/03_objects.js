@@ -43,3 +43,5 @@ jsUser.greeting = function(){
 }
 
 console.log(jsUser.greeting);
+
+console.log(jsUser)
