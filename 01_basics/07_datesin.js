@@ -13,3 +13,5 @@ newDate.toLocaleString(
 )
 
 // console.log(newDate.timeZone)
+
+console.log(newDate.getHours())
