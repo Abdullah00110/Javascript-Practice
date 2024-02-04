@@ -19,4 +19,4 @@ const regularUser = {
 }
 
 console.log(regularUser.email);
-console.log(regularUser.fullname.userfullname.firstname.surname);
+// console.log(regularUser.fullname.userfullname.firstname.surname);
