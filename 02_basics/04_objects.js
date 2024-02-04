@@ -13,10 +13,10 @@ const regularUser = {
     fullname:{
         userfullname: {
             firstname : "Abdullah",
-            Surname : "Sunasara"
+            surname : "Sunasara"
         }
     }
 }
 
 console.log(regularUser.email);
-console.log(regularUser.fullname.userfullname.firstname.Surname);
+console.log(regularUser.fullname.userfullname.firstname.surname);
