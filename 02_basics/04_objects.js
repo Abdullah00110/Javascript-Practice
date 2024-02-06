@@ -20,3 +20,7 @@ const regularUser = {
 
 console.log(regularUser.email);
 // console.log(regularUser.fullname.userfullname.firstname.surname);
+
+const obj1 = {1:"a" , 2:"b"}
+const obj2 = {3:"c" , 4:"d"}
+console.log(obj1 , obj2);
