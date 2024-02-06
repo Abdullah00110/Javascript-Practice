@@ -22,4 +22,5 @@ const roll_no = [101 , 102]
 const output = [...student , ...roll_no]
 
 console.log(student[0])
+console.log(roll_no[1])
 console.log(typeof output);
