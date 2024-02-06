@@ -20,4 +20,6 @@ console.log(real_another_array);
 const student = ["Abdullah" , "Ahmad"]
 const roll_no = [101 , 102]
 const output = [...student , ...roll_no]
+
+console.log(student[0])
 console.log(typeof output);
