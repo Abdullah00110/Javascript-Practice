@@ -18,7 +18,9 @@ const regularUser = {
     }
 }
 
-console.log(regularUser.email);
+console.log(regularUser.email)
+
+// console.log(regularUser.email);
 // console.log(regularUser.fullname.userfullname.firstname.surname);
 
 const obj1 = {1:"a" , 2:"b"}
