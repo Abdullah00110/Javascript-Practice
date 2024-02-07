@@ -25,11 +25,16 @@ console.log(regularUser.email)
 
 const obj1 = {1:"a" , 2:"b"}
 const obj2 = {3:"c" , 4:"d"}
-console.log(obj1 , obj2);
+// console.log(obj1 , obj2);
 
 
-const chai = {
-    chainame : "masala",
-    chaiprice : 15
+const obj3 = Object.assign(obj1, obj2)
+console.log(obj3);
+
+// const chai = {
+//     chainame : "masala",
+//     chaiprice : 15
     
-}
+// }
+
+
