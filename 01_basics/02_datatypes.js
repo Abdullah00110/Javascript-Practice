@@ -26,5 +26,5 @@ console.log(isLoggedIn)
 console.log(typeof undefined) // => undefined
 console.log(typeof null) // => object
 console.log(typeof NaN)
-
+console.log (typeof BigInt)
 console.log(typeof Symbol )
