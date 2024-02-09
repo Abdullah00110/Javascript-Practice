@@ -1,9 +1,9 @@
-//const tinderUser = new Object()
-// const tinderUser = {} 
+// const tinderUser = new Object()
+const tinderUser = {} 
 
-// tinderUser.id = 123
-// tinderUser.name = 'Abd'
-// tinderUser.isLoggedIn = true
+tinderUser.id = 123
+tinderUser.name = 'Abd'
+tinderUser.isLoggedIn = true
 
 // console.log(tinderUser);
 
@@ -45,10 +45,17 @@ const user = [
     },
 
     {
-        
+        id : 1,
+        email : 'a@gamil.com'
+    },
+
+    {
+        id : 1,
+        email : 'a@gamil.com'
     }
 ]
 
-
+user[1].email
+console.log(tinderUser);
 
 
