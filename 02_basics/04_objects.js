@@ -38,3 +38,17 @@ console.log(obj3);
 // }
 
 
+const user = [
+    {
+        id : 1,
+        email : 'a@gamil.com'
+    },
+
+    {
+        
+    }
+]
+
+
+
+
