@@ -24,3 +24,4 @@ const output = [...student , ...roll_no]
 console.log(student[0])
 console.log(roll_no[1])
 console.log(typeof output);
+console.log(typeof student)
