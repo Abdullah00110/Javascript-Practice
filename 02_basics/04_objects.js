@@ -59,11 +59,11 @@ user[1].email
 console.log(tinderUser);
 
 
-console.log(Object.keys(tinderUser))
-console.log(Object.values(tinderUser))
-console.log(Object.length)
-console.log(Object.entries(tinderUser))
-console.log(tinderUser.hasOwnProperty('IsLoggedIn'))
+// console.log(Object.keys(tinderUser))
+// console.log(Object.values(tinderUser))
+// console.log(Object.length)
+// console.log(Object.entries(tinderUser))
+// console.log(tinderUser.hasOwnProperty('IsLoggedIn'))
 
 const emp = {
     name : "Abd",
@@ -85,4 +85,4 @@ const emp = {
     }
 }
 
-console.log(emp.State.city);
+console.log(emp.Rank.Rank1,emp.Rank.Student1);
