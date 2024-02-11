@@ -85,4 +85,4 @@ const emp = {
     }
 }
 
-console.log(emp.Rank.Rank1,emp.Rank.Student1);
+console.log(emp.Rank.Rank2,emp.Rank.Student2);
