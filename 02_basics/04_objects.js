@@ -75,4 +75,4 @@ const emp = {
     }
 }
 
-console.log(emp.name);
+console.log(emp.State.city);
