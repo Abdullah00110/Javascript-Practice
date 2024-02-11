@@ -64,3 +64,10 @@ console.log(Object.values(tinderUser))
 console.log(Object.length)
 console.log(Object.entries(tinderUser))
 console.log(tinderUser.hasOwnProperty('IsLoggedIn'))
+
+const emp = {
+    name : "Abd",
+    id : 1,
+    
+}
+
