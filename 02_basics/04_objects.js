@@ -71,3 +71,4 @@ const emp = {
     
 }
 
+console.log(emp.name);
