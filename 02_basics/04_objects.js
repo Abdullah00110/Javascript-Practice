@@ -72,6 +72,16 @@ const emp = {
         state_name : "Maharashtra",
         pin_code: '400104',
         city : 'Mumbai'
+        
+    },
+
+    Rank:{
+        Rank1 : 1,
+        Rank2 : 2,
+        Rank : 3,
+        Student1 : 'Abdullah',
+        Student2 : 'Usama',
+        Student3 : 'Riyaz'
     }
 }
 
