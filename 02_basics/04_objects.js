@@ -68,7 +68,11 @@ console.log(tinderUser.hasOwnProperty('IsLoggedIn'))
 const emp = {
     name : "Abd",
     id : 1,
-    
+    State : {
+        state_name : "Maharashtra",
+        pin_code: '400104',
+        city : 'Mumbai'
+    }
 }
 
 console.log(emp.name);
