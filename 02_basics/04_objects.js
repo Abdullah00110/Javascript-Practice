@@ -97,3 +97,5 @@ const cricketer = {
         Shami : "Best seam"
     }
 }
+
+console.log(cricketer.cricket_player.Dhoni)
