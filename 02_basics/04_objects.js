@@ -95,6 +95,13 @@ const cricketer = {
         Kohli : 'Best cover drive',
         Boom : 'Best yorker',
         Shami : "Best seam"
+    },
+
+    Best_teacher : {
+        Hitesh : 'Fullstack and content creator',
+        Piyush : 'Best Fullstack',
+        Striver : 'Best DSA',
+        Navin : 'Best Java'
     }
 }
 
