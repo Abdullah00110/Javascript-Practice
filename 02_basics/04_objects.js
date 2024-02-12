@@ -98,4 +98,4 @@ const cricketer = {
     }
 }
 
-console.log(cricketer.cricket_player.Dhoni)
+console.log(cricketer.cricket_player.Rohit)
