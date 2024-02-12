@@ -86,3 +86,14 @@ const emp = {
 }
 
 console.log(emp.Rank.Rank2,emp.Rank.Student2);
+
+
+const cricketer = {
+    cricket_player :{
+        Dhoni : 'Finisher',
+        Rohit : 'Pull Shot and Dangerous man',
+        Kohli : 'Best cover drive',
+        Boom : 'Best yorker',
+        Shami : "Best seam"
+    }
+}
