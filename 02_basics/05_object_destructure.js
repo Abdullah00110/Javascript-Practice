@@ -9,4 +9,7 @@ const {price: pr} = course
 console.log(pr);
 
 
-const 
+{
+    name : "Abdullah"
+    coursename : "html css and js"
+}
