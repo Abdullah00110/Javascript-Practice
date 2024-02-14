@@ -7,3 +7,6 @@ const course = {
 
 const {price: pr} = course
 console.log(pr);
+
+
+const 
