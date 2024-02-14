@@ -5,5 +5,5 @@ const course = {
 
 }
 
-const {price} = course
-console.log(price);
+const {price: pr} = course
+console.log(pr);
