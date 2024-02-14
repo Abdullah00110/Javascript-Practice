@@ -4,3 +4,6 @@ const course = {
     courseInstructor : "Hitesh Sir"
 
 }
+
+const {price} = course
+console.log(price);
