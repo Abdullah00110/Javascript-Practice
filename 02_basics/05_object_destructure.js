@@ -9,7 +9,10 @@ const {price: pr} = course
 console.log(pr);
 
 
-{
-    name : "Abdullah"
-    coursename : "html css and js"
+a = {
+    name : "Abdullah",
+    coursename : "html css and js",
+    courseprice : 99
 }
+
+a.name
