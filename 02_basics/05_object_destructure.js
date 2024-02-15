@@ -15,4 +15,3 @@ a = {
     courseprice : 99
 }
 
-a.name
