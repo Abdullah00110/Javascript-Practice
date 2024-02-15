@@ -15,4 +15,4 @@ a = {
     courseprice : 99
 }
 
-console.log(a.name);
+console.log(a.name, a.courseprice);
