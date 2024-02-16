@@ -105,4 +105,4 @@ const cricketer = {
     }
 }
 
-console.log(cricketer.cricket_player.Kohli , cricketer.Best_teacher.Hitesh , cricketer.Best_teacher.Navin)
+console.log(cricketer.Best_teacher.Navin , cricketer.Hitesh)
