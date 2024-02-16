@@ -105,4 +105,4 @@ const cricketer = {
     }
 }
 
-console.log(cricketer.Best_teacher.Navin , cricketer.Hitesh , cricketer.Striver)
+console.log(cricketer.Best_teacher.Navin , cricketer.Hitesh , cricketer.Striver , cricketer.Boom)
