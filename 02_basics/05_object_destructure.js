@@ -24,4 +24,4 @@ a = {
     rating : '5/5'
 }
 
-console.log(a.rating)
+console.log(a.teacher)
