@@ -49,3 +49,5 @@ console.log(jsUser)
 console.log(isLoggedIn)
 
 console.log(typeof isLoggedIn)
+
+console.log(isNaN)
