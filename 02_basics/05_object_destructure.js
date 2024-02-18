@@ -16,3 +16,12 @@ a = {
 }
 
 console.log(a.name, a.courseprice);
+
+a = {
+
+    Youtube : "chai aur backend",
+    teacher : "Hitesh",
+    rating : '5/5'
+}
+
+console.log(a.rating)
