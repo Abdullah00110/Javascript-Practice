@@ -47,3 +47,5 @@ console.log(jsUser.greeting);
 console.log(jsUser)
 
 console.log(isLoggedIn)
+
+console.log(typeof isLoggedIn)
