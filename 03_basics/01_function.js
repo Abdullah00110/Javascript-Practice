@@ -13,6 +13,8 @@ sayMyName()
 
 function sayHello(){
     console.log("Abd")
+    a = 5;
+    b = 7;
 }
 
-sayHello()
+sayHello(`a + b`)
