@@ -11,10 +11,9 @@ function sayMyName(){
 
 sayMyName()
 
-function sayHello(){
-    console.log("Abd")
-    a = 5;
-    b = 7;
+function sayHello(a, b){
+    // console.log("Abd")
+    return a + b;
 }
 
-sayHello(`a + b`)
+sayHello(3,7)
