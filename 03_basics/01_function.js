@@ -10,3 +10,9 @@ function sayMyName(){
 }
 
 sayMyName()
+
+function sayHello(){
+    console.log("Abd")
+}
+
+sayHello()
