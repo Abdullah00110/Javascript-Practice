@@ -12,7 +12,7 @@
 // sayMyName()
 
 function sayHello(a, b){
-    return a + b;
+    console.log(a + b);
 }
 
 const result = sayHello(3,7)
