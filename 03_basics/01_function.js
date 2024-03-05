@@ -21,9 +21,20 @@
 
 
 
+// function loginusermessage(username){
+//     return `${username} just logged in`
+// }
+
+// const result = "Abdullah";
+// console.log(result)
+
+
 function loginusermessage(username){
+    if (username === undefined){
+        console.log("Please enter a name...");
+        return
+    }
     return `${username} just logged in`
 }
 
-const result = "Abdullah";
-console.log(result)
+console.log(loginusermessage());
