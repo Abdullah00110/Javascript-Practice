@@ -11,10 +11,19 @@
 
 // sayMyName()
 
-function sayHello(a, b){
-    console.log(a + b);
+// function sayHello(a, b){
+//     console.log(a + b);
+// }
+
+// const result = sayHello(3,7)
+
+// console.log(result);
+
+
+
+function loginusermessage(username){
+    return `${username} just logged in`
 }
 
-const result = sayHello(3,7)
-
-console.log(result);
+const result = "Abdullah";
+console.log(result)
