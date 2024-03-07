@@ -37,4 +37,4 @@ function loginusermessage(username){
     return `${username} just logged in`
 }
 
-console.log(loginusermessage());
+console.log(loginusermessage())
