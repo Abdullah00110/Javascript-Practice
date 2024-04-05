@@ -29,12 +29,47 @@
 // console.log(result)
 
 
-function loginusermessage(username){
-    if (username === undefined){
-        console.log("Please enter a name...");
-        return
-    }
-    return `${username} just logged in`
+// ` String interpolation
+// function loginusermessage(username){
+//     if (username === undefined){
+//         console.log("Please enter a name...");
+//         return
+//     }
+//     return `${username} just logged in`
+// }
+
+// console.log(loginusermessage())
+
+
+// function addTwoNumbers(n1 , n2){
+//       console.log(n1 + n2);
+// }
+
+// addTwoNumbers(3,3)
+
+// function sumOfTwonum(n1,n2){
+//         return n1 , n2
+// }
+
+// const result = sumOfTwonum(3,3)
+// console.log(result);
+
+// ... -> rest operator , ... -> spread operator
+// function calculateCardNum(...num1){
+//     return num1
+// }
+
+// console.log(calculateCardNum(3,2,1));
+
+
+const User = {
+     username : "Abdullah",
+     price : 199
 }
 
-console.log(loginusermessage())
+
+function handleObject(anyobject){
+    console.log(`Username is ${anyobject.username} and Price is ${anyobject.price}`);
+}
+
+handleObject(User)
